@@ -1,0 +1,5 @@
+[StripeCustomerCreateTest]
+name = Stripe Customer creation
+description = Test creating and updating Stripe customers.
+group = Stripe
+file = stripe_customers.test
